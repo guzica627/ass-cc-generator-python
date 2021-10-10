@@ -17,8 +17,7 @@ print(Fore.LIGHTYELLOW_EX+"""
 ██║╚██╔╝██║██║   ██║██║  ██║██║     ██║     
 ██║ ╚═╝ ██║╚██████╔╝██████╔╝╚██████╗███████╗
 ╚═╝     ╚═╝ ╚═════╝ ╚═════╝  ╚═════╝╚══════╝
-
-         Made by ~ [guzica627]                                                                                                                                     
+                                                                                                                                   
 """)
 
 amount = int(input(Fore.WHITE+"("+Fore.LIGHTYELLOW_EX+"/"+Fore.WHITE+")"+Fore.LIGHTYELLOW_EX+" How much credit cards to generate \n>"))
